@@ -7,11 +7,11 @@ Lithuanian Quiz project is a part of Android Basics Nanodegree by Google.
 
 Screenshots:
 
-![Screenshot](screenshots/Screenshot_1.png)
-![Screenshot](screenshots/Screenshot_2.png)
-![Screenshot](screenshots/Screenshot_3.png)
-![Screenshot](screenshots/Screenshot_4.png)
-![Screenshot](screenshots/Screenshot_5.png)
+![Screenshot](screenshots/screenshot_1.png)
+![Screenshot](screenshots/screenshot_2.png)
+![Screenshot](screenshots/screenshot_3.png)
+![Screenshot](screenshots/screenshot_4.png)
+![Screenshot](screenshots/screenshot_5.png)
 
 
 Description:
