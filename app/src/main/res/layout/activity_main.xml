@@ -9,7 +9,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="@dimen/top_bottom_layout_margin"
+        android:layout_marginBottom="@dimen/bigger_layout_margin"
         android:layout_marginLeft="@dimen/layout_margin"
         android:layout_marginRight="@dimen/layout_margin"
         android:layout_marginTop="@dimen/layout_margin"
@@ -19,7 +19,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center_horizontal"
-            android:paddingBottom="@dimen/layout_margin"
+            android:paddingBottom="@dimen/bigger_layout_margin"
             android:text="@string/introduction"
             android:textSize="@dimen/title_text_size"
             android:textStyle="bold|italic" />
@@ -33,7 +33,7 @@
         <TextView
             style="@style/MainTextStyle"
             android:paddingBottom="@dimen/layout_margin_between_question_views"
-            android:paddingTop="@dimen/layout_margin"
+            android:paddingTop="@dimen/bigger_layout_margin"
             android:text="@string/question_1" />
 
         <EditText
@@ -252,7 +252,7 @@
             android:id="@+id/submit_button"
             style="@style/ButtonTextStyle"
             android:layout_gravity="center_horizontal"
-            android:layout_marginBottom="@dimen/top_bottom_layout_margin"
+            android:layout_marginBottom="@dimen/bigger_layout_margin"
             android:layout_marginTop="@dimen/layout_margin_between_questions"
             android:onClick="submitAnswers"
             android:text="@string/submit_answers" />

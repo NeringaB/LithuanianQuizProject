@@ -1,7 +1,7 @@
 <resources>
     <!-- Screen margins. -->
     <dimen name="layout_margin">16dp</dimen>
-    <dimen name="top_bottom_layout_margin">32dp</dimen>
+    <dimen name="bigger_layout_margin">32dp</dimen>
     <dimen name="layout_margin_between_questions">32dp</dimen>
     <dimen name="layout_margin_between_question_views">8dp</dimen>
 
