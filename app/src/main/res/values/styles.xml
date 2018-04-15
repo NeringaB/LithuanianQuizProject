@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- App branding color for the app bar -->
+        <item name="colorPrimary">#4caf50</item>
+        <!-- Darker variant for the status bar and contextual app bars -->
+        <item name="colorPrimaryDark">#43a047</item>
+        <!-- Theme UI controls like checkboxes and text fields -->
+        <item name="colorAccent">#fdd835</item>
+        <!-- Background color of buttons in the app -->
+        <item name="colorButtonNormal">#4caf50</item>
+    </style>
+
+    <!-- Style for the TextViews (except the title). -->
+    <style name="MainTextStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/main_text_size</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <!-- Style for the button, radio buttons and checkboxes. -->
+    <style name="ButtonTextStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/button_text_size</item>
+    </style>
+
+    <!-- Style for the EditText. -->
+    <style name="EditTextStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/main_text_size</item>
+    </style>
+</resources>

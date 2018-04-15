@@ -1,0 +1,68 @@
+<resources>
+
+    <!-- Title for the application.-->
+    <string name="app_name">Lithuanian Quiz</string>
+
+    <!-- Sentence presenting the quiz.-->
+    <string name="introduction">How much do you know\nabout Lithuania?</string>
+
+    <!-- Question one.-->
+    <string name="question_1">1. How is the sea to the west of Lithuania called?</string>
+
+    <!-- Hint text displayed in the empty field for the user's answer.-->
+    <string name="write_your_answer_here">Write your answer here</string>
+
+    <!-- Question two.-->
+    <string name="question_2">2. What is the most popular sport in Lithuania?</string>
+
+    <!-- Hint text displayed in the empty field for the user's answer.-->
+    <string name="choose_one_answer">Choose one answer:</string>
+
+    <!-- Question three.-->
+    <string name="question_3">3. When was the name of Lithuania mentioned for the first time?
+        </string>
+
+    <!-- Four answers to choose.-->
+    <string name="year_1569">1569</string>
+    <string name="year_1899">1899</string>
+    <string name="year_1009">1009</string>
+    <string name="year_1697">1697</string>
+
+    <!-- Question four.-->
+    <string name="question_4">4. \"Lithuanian gold\" is a nickname for:</string>
+
+    <!-- Four answers to choose.-->
+    <string name="honey">Honey</string>
+    <string name="amber">Amber</string>
+    <string name="sun">Sun</string>
+    <string name="wheat">Wheat</string>
+
+    <!-- Question five.-->
+    <string name="question_5">5. What are traditional drinks in Lithuania for the diner on Christmas
+        Eve?</string>
+
+    <!-- Hint how many correct answers the user should choose.-->
+    <string name="question_5_choose_answers">Choose 2 correct answers.</string>
+
+    <!-- Four answers to choose.-->
+    <string name="tea">Tea</string>
+    <string name="beer">Beer</string>
+    <string name="kisielius">Kisielius</string>
+    <string name="poppy_milk">Poppy milk</string>
+
+    <!-- Question six.-->
+    <string name="question_6">6. Which of these animals naturally live in Lithuania?</string>
+
+    <!-- Hint how many correct answers the user should choose.-->
+    <string name="question_6_choose_answers">Choose 3 correct answers.</string>
+
+    <!-- Four answers to choose.-->
+    <string name="wolf">Wolf</string>
+    <string name="rabbit">Rabbit</string>
+    <string name="kangaroo">Kangaroo</string>
+    <string name="fox">Fox</string>
+
+    <!-- Button text to submit answers.-->
+    <string name="submit_answers">Submit answers</string>
+
+</resources>
